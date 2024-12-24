@@ -12,7 +12,7 @@ An open-source [URL shortener](https://idm.in/) to create shorten link with Clou
 
 ## Deploy on Cloudflare
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dayschedule/idm)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tgmgroup/isesaki.in-shortlink-generator)
 
 Built with:
 - 💡 [Cloudflare Pages and Workers](https://www.cloudflare.com/)
